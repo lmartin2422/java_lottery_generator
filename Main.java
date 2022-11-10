@@ -156,7 +156,10 @@ public class Main {
         System.out.println(" ");
         System.out.println("Your numbers are: " + guessedNumbers);
         System.out.println(" ");
-        System.out.println("The winning numbers are: ");
+        System.out.println("The winning numbers are loading: ");
+        System.out.println("Loading....");
+        System.out.println("Loading....");
+        System.out.println("Loading....");
         System.out.println(winningNumbers);
         System.out.println(" ");
 
@@ -196,6 +199,10 @@ public class Main {
         System.out.println(" ");
         System.out.println("The Maryland Lottery!");
         System.out.println(" ");
+        System.out.println("The winning numbers are loading: ");
+        System.out.println("Loading....");
+        System.out.println("Loading....");
+        System.out.println("Loading....");
         System.out.println("The winning numbers are: " + winningNumbers);
         System.out.println(" ");
 
